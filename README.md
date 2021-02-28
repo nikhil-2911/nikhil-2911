@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nikhilxmr5@gmail.com**
 
-- ⚡ Fun fact **I love Weight Lifting**
+- ⚡ Fun fact **I love Power Lifting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
