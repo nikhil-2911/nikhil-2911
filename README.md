@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-2911&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-2911" /> </p>
 
-- 🔭 I’m currently working on **MERN Project**
+- 🔭 I’m currently working on **Javascript**
 
 - 🌱 I’m currently learning **MERN Stack**
 
